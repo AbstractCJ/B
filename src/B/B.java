@@ -7,6 +7,11 @@ public class B {public static void main(String[] args) {
 	System.out.println("Here is hoping");
 	System.out.println("B");
 	System.out.println("Getting excited!");
+	
+	System.out.println("Today is not Tuesday.");
+	
+	
+	System.out.println("Broke out into our group!");
 }
 
 }
